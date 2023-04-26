@@ -647,3 +647,12 @@ header {
 .media-footer {
   margin-right: 120px;
 }
+.input {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 0.5;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.04em;
+  color: var(--bg-color);
+}
